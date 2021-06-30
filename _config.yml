@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Cristian Urbina's personal web page # the website title (if blank, full name will be used instead)
+title: Cristian Urbina # the website title (if blank, full name will be used instead)
 first_name: Cristian
 middle_name: B.
 last_name: Urbina
@@ -44,7 +44,7 @@ github_username: crurbina97 # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: crurbina97 # your Twitter handle
 linkedin_username: cristian-bruno-urbina-gallegos-768a95210 # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: Ea4ATzAAAAAJ # your Google Scholar ID
 orcid_id: 0000-0001-8979-9055 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
